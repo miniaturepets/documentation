@@ -1,0 +1,24 @@
+-classpath
+'/home/liors/.m2/repository/org/spigotmc/spigot/1.16.2-R0.1-SNAPSHOT/spigot-1.16.2-R0.1-SNAPSHOT.jar:/home/liors/.m2/repository/com/github/MilkBowl/VaultAPI/1.7/VaultAPI-1.7.jar:/home/liors/.m2/repository/org/bukkit/bukkit/1.13.1-R0.1-SNAPSHOT/bukkit-1.13.1-R0.1-SNAPSHOT.jar:/home/liors/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar:/home/liors/.m2/repository/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar:/home/liors/.m2/repository/junit/junit/4.10/junit-4.10.jar:/home/liors/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar:/home/liors/.m2/repository/com/google/guava/guava/21.0/guava-21.0.jar:/home/liors/.m2/repository/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar:/home/liors/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar:/home/liors/.m2/repository/com/comphenix/protocol/ProtocolLib/4.5.0/ProtocolLib-4.5.0.jar:/home/liors/.m2/repository/cglib/cglib-nodep/3.2.5/cglib-nodep-3.2.5.jar:/home/liors/.m2/repository/com/comphenix/executors/BukkitExecutors/1.1-SNAPSHOT/BukkitExecutors-1.1-SNAPSHOT.jar:/home/liors/.m2/repository/com/github/EngineHub/WorldGuard/6.1/WorldGuard-6.1.jar:/home/liors/.m2/repository/com/sk89q/worldedit/5.5.8/worldedit-5.5.8.jar:/home/liors/.m2/repository/de/schlichtherle/truezip/6.8.3/truezip-6.8.3.jar:/home/liors/.m2/repository/rhino/js/1.7R2/js-1.7R2.jar:/home/liors/.m2/repository/com/sk89q/jchronic/0.2.4a/jchronic-0.2.4a.jar:/home/liors/.m2/repository/com/sk89q/spigot/bukkit-classloader-check/1.8-R0.1-SNAPSHOT/bukkit-classloader-check-1.8-R0.1-SNAPSHOT.jar:/home/liors/.m2/repository/org/avaje/ebean/2.8.1/ebean-2.8.1.jar:/home/liors/.m2/repository/javax/persistence/persistence-api/1.0/persistence-api-1.0.jar:/home/liors/.m2/repository/com/sk89q/commandbook/2.3/commandbook-2.3.jar:/home/liors/.m2/repository/net/sf/opencsv/opencsv/2.0/opencsv-2.0.jar:/home/liors/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/home/liors/.m2/repository/org/projectlombok/lombok/1.18.12/lombok-1.18.12.jar:/home/liors/.m2/repository/com/github/cryptomorin/XSeries/7.2.1.2/XSeries-7.2.1.2.jar:/home/liors/.m2/repository/org/bstats/bstats-bukkit/1.7/bstats-bukkit-1.7.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/home/liors/IdeaProjects/miniaturepets/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/liors/IdeaProjects/miniaturepets/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'MiniaturePets 2.5.8 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/home/liors/IdeaProjects/miniaturepets/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'MiniaturePets 2.5.8 API'
